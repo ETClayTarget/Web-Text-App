@@ -2,11 +2,11 @@
 This is the beginning of a web based chat app, similiar to discord
 
 Goals:
-Allow for account creation
+1.Allow for account creation
 -password
 -username
-Allow users to sign in
-Allow users to add other users as friends
-Allow text interaction between two users
-Create a decent front end using HTML/CSS/JS
-Use python for most of the backend
+2.Allow users to sign in
+3.Allow users to add other users as friends
+4.Allow text interaction between two users
+5.Create a decent front end using HTML/CSS/JS
+6.Use python for most of the backend
